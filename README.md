@@ -90,6 +90,13 @@ For enabling the Develper options we have to tap on the **Build Number** sevent 
 
 ![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/bf5acf4f-ffe9-42f9-9086-d589c9c2f7c3)
 
+We enter the Mobile device password if required
+
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/82f224aa-3de2-40d6-954c-d5bb8a7c7786)
+
+We receive a message **Developer mode was turned on**
+
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/9a5edffb-5324-45bc-ab91-6eb9cd582ba7)
 
 
 Enable USB Debugging:
