@@ -154,9 +154,15 @@ Run the following command to start debugging on your connected device:
 flutter run
 ```
 
-Your Flutter application should now be running on your **mobile phone**, and you can use **adb** for debugging purposes
+We click on the new flutter application icon in our mobile device to run it
+
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/74a7ef1a-e341-4487-a41a-bd49b45f04ed)
 
 ![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/243cc298-9186-498a-a724-0487bec15058)
+
+Your Flutter application should now be running on your **mobile phone**, and you can use **adb** for debugging purposes
+
+
 
 
 
