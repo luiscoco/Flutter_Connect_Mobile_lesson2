@@ -110,7 +110,11 @@ Enable **USB debugging**
 
 ![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/1ed246b5-9799-40fc-a576-86354df535db)
 
-We can also revoke the USB debugging authorization for detecting the mobile phone
+We also have to connect the Mobile to the Laptop with an **USB wire**
+
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/edbdda99-a8a9-4f6f-8f01-cf9ddf89115e)
+
+We can also **revoke the USB debugging authorization** for detecting the mobile phone
 
 ![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/bc9cae45-a9f1-4ce6-a0e5-d3775c45edeb)
 
@@ -151,6 +155,8 @@ flutter run
 ```
 
 Your Flutter application should now be running on your **mobile phone**, and you can use **adb** for debugging purposes
+
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/243cc298-9186-498a-a724-0487bec15058)
 
 
 
