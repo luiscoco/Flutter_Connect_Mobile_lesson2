@@ -14,27 +14,27 @@ Install Android SDK: During the installation, ensure that the Android SDK is ins
 
 Open Android Studio:
 
-Launch Android Studio and go to the SDK Manager
+Launch Android Studio and go to the **SDK Manager**
 
-Navigate to Configure > SDK Manager
+Navigate to **Configure > SDK Manager**
 
 Install SDK Platform Tools:
 
-In the SDK Manager, go to the SDK Tools tab
+In the SDK Manager, go to the **SDK Tools** tab
 
-Check the box for Android SDK Platform-Tools
+Check the box for **Android SDK Platform-Tools**
 
-Click Apply to install the package
+Click **Apply** to install the package
 
 ## 3. Step 3: Add adb to System PATH
 
 Find adb Location:
 
-The adb executable is located in the platform-tools directory inside the Android SDK directory
+The **adb** executable is located in the platform-tools directory inside the Android SDK directory
 
 Common default paths:
 
-Windows: C:\Users\<Your-Username>\AppData\Local\Android\Sdk\platform-tools
+**Windows: C:\Users\<Your-Username>\AppData\Local\Android\Sdk\platform-tools**
 
 macOS: ~/Library/Android/sdk/platform-tools
 
@@ -44,15 +44,63 @@ Linux: ~/Android/Sdk/platform-tools
 
 Windows:
 
-Open Control Panel > System and Security > System > Advanced system settings
+Open Control **Panel > System and Security > System > Advanced system settings**
 
-Click on Environment Variables
+Click on **Environment Variables**
 
-Under System variables, find the Path variable, and click Edit
+Under **System variables**, find the **Path** variable, and click **Edit**
 
 Click New and add the path to the platform-tools directory
 
 Click OK to save the changes
+
+## 4. Step 4: Enable USB Debugging on Your Mobile Phone
+
+Enable Developer Options:
+
+On your Android phone, go to **Settings > About** phone
+
+**Tap Build number seven times** to **enable Developer** options
+
+Enable USB Debugging:
+
+Go to **Settings > System > Developer** options
+
+Enable USB debugging
+
+## 5. Step 5: Verify adb Installation
+
+Connect Your Phone:
+
+Connect your Android phone to your computer using a USB cable
+
+**Verify adb Connection**:
+
+Open a terminal (Command Prompt on Windows, Terminal on macOS/Linux)
+
+Run the following command:
+
+```
+adb devices
+```
+
+You should see your device listed. If prompted on your phone, authorize the connection
+
+## 6. Step 6: Debug Flutter Application
+
+Open your Flutter project
+
+Run the Flutter application:
+
+In the terminal, navigate to your Flutter project directory
+
+Run the following command to start debugging on your connected device:
+
+```
+flutter run
+```
+
+Your Flutter application should now be running on your **mobile phone**, and you can use **adb** for debugging purposes
 
 
 
