@@ -134,6 +134,8 @@ adb devices
 
 You should see your device listed. If prompted on your phone, **authorize the connection**
 
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/e453ae4d-50bd-487c-9427-c9ff584b8627)
+
 ## 6. Step 6: Debug Flutter Application
 
 Open your Flutter project
