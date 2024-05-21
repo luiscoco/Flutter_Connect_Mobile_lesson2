@@ -94,16 +94,27 @@ We enter the Mobile device password if required
 
 ![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/82f224aa-3de2-40d6-954c-d5bb8a7c7786)
 
-We receive a message **Developer mode was turned on**
+We receive a message **Developer mode has been turned on**
 
 ![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/9a5edffb-5324-45bc-ab91-6eb9cd582ba7)
 
+Now we can verify the **Developer options** are available in our mobile phone:
 
-Enable USB Debugging:
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/744a152d-0ad1-46c6-8ba7-9009101fce9b)
+
+We can **Enable USB Debugging**:
 
 Go to **Settings > System > Developer** options
 
 Enable **USB debugging**
+
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/1ed246b5-9799-40fc-a576-86354df535db)
+
+We can also revoke the USB debugging authorization for detecting the mobile phone
+
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/bc9cae45-a9f1-4ce6-a0e5-d3775c45edeb)
+
+And then accept the message in your mobile phone to authorize to connect the mobile to the laptop
 
 ## 5. Step 5: Verify adb Installation
 
