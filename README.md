@@ -1,13 +1,10 @@
 # How to connect your mobile with your laptop for debugging a Flutter application
 
+https://developer.android.com/tools/adb#wireless-adb-android-11
 
-## 1. 
+Android Debug Bridge (adb)
 
-## 2. 
 
-## 3. 
-
-## 4. 
 
 
 
