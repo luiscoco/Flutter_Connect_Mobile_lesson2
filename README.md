@@ -8,7 +8,20 @@ To install and set up **Android Debug Bridge (adb)** for debugging a Flutter app
 
 Download and Install Android Studio: Download Android Studio from the official Android developer website
 
+https://developer.android.com/studio
+
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/f86926a5-a306-4c66-85d8-0f808879eee9)
+
 Install Android SDK: During the installation, ensure that the Android SDK is installed
+
+We press in the three dots button and we select the option **SDK Manager**
+
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/dcff12f6-465d-4a56-83dc-5ccbd3e03778)
+
+We have to select the **SDK Tools** tab and then install **Android SDK Command-Line Tools** and **Android SDK Platform-Tools**
+
+
+
 
 ## 2. Step 2: Set Up adb
 
