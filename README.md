@@ -78,6 +78,13 @@ We first press the **Settings** button
 
 ![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/fccc28b3-3c4d-4457-a91e-f2c2d2423509)
 
+We select the menu option **Settings/About the Phone**
+
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/1a895a90-0761-49c0-8701-2e027f4d0846)
+
+Then we select the option **Software Information**
+
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/0ab2bcdd-c1a5-439e-8080-8d604642a9f0)
 
 
 Enable Developer Options:
