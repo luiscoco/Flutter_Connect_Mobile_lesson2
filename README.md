@@ -20,8 +20,7 @@ We press in the three dots button and we select the option **SDK Manager**
 
 We have to select the **SDK Tools** tab and then install **Android SDK Command-Line Tools** and **Android SDK Platform-Tools**
 
-
-
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/24318ae8-d9fb-4066-80c4-302b262af6fc)
 
 ## 2. Step 2: Set Up adb
 
@@ -36,6 +35,8 @@ Install SDK Platform Tools:
 In the SDK Manager, go to the **SDK Tools** tab
 
 Check the box for **Android SDK Platform-Tools**
+
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/33cd6ba3-72cb-4b58-b795-b40051a469a7)
 
 Click **Apply** to install the package
 
