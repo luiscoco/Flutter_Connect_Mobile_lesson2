@@ -86,12 +86,11 @@ Then we select the option **Software Information**
 
 ![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/0ab2bcdd-c1a5-439e-8080-8d604642a9f0)
 
+For enabling the Develper options we have to tap on the **Build Number** sevent times:
 
-Enable Developer Options:
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/bf5acf4f-ffe9-42f9-9086-d589c9c2f7c3)
 
-On your Android phone, go to **Settings > About** phone
 
-**Tap Build number seven times** to **enable Developer** options
 
 Enable USB Debugging:
 
