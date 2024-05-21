@@ -74,6 +74,12 @@ Click OK to save the changes
 
 ## 4. Step 4: Enable USB Debugging on Your Mobile Phone
 
+We first press the **Settings** button
+
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/fccc28b3-3c4d-4457-a91e-f2c2d2423509)
+
+
+
 Enable Developer Options:
 
 On your Android phone, go to **Settings > About** phone
