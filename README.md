@@ -66,13 +66,13 @@ Enable USB Debugging:
 
 Go to **Settings > System > Developer** options
 
-Enable USB debugging
+Enable **USB debugging**
 
 ## 5. Step 5: Verify adb Installation
 
 Connect Your Phone:
 
-Connect your Android phone to your computer using a USB cable
+Connect your Android phone to your computer using a **USB cable**
 
 **Verify adb Connection**:
 
@@ -84,7 +84,7 @@ Run the following command:
 adb devices
 ```
 
-You should see your device listed. If prompted on your phone, authorize the connection
+You should see your device listed. If prompted on your phone, **authorize the connection**
 
 ## 6. Step 6: Debug Flutter Application
 
