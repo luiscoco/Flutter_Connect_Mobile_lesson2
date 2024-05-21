@@ -68,6 +68,8 @@ Click New and add the path to the platform-tools directory
 
 Click OK to save the changes
 
+![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/e8decfb6-d6cf-4b33-86cf-188cf60fcc3a)
+
 ## 4. Step 4: Enable USB Debugging on Your Mobile Phone
 
 Enable Developer Options:
